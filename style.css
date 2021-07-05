@@ -5,7 +5,7 @@ h1{
     font-size: 40px;
     padding-top: 5%;
 }
-h2{
+.restaurant{
     padding-top: 10%;
 }
 p{
@@ -28,7 +28,7 @@ p{
     padding-left: 80px;
 }
 .button{
-    background-image: linear-gradient(#f3bbb9c2, #CB8F8E);
+    background-image: linear-gradient(#f8f1f0ea, #CB8F8E);
     text-decoration: none;
     color: beige;
     border-radius: 30px;
@@ -44,6 +44,13 @@ p{
 }
 .half-width-2 img{
     width: 80%;
+}
+.recipe{
+    text-align: center;
+}
+.blog-3 p{
+    text-align: center;
+    padding-left: 20%;
 }
 
 
