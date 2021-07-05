@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    padding-top: 5%;
+}
+h2{
+    padding-top: 10%;
+}
+p{
+    color: darkgrey;
+    padding-bottom: 5%;
+    padding-right: 20%;
+}
+.blog-1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.food{
+    color: #B36F66;
+}
+.half-width img{
+    width: 80%;
+    padding-left: 80px;
+}
+.button{
+    background-image: linear-gradient(#f3bbb9c2, #CB8F8E);
+    text-decoration: none;
+    color: beige;
+    border-radius: 30px;
+    padding: 10px 10px;
+}
+.blog-2{
+    display: flex;
+    background-image: url(images/bg2.jpg);
+    
+}
+.half-width-2{
+    width: 50%;
+}
+.half-width-2 img{
+    width: 80%;
+}
+
+
+
