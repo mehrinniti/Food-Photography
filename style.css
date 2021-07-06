@@ -78,6 +78,23 @@ p{
     padding-left: 2px;
     padding-right: 2px;
 }
+.share-fb img{
+    width: 100px;
+    height: 100px;
+    padding-left: 5%;
+}
 
+.share img{
+    width: 70px;
+    height: 70px;
+}
+.like img{
+    width: 70px;
+    height: 70px;
+    padding-left: 5%;
+}
 
-
+h4{
+    padding-top: 5%;
+    padding-left: 3%;
+}
