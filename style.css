@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -92,9 +93,19 @@ p{
     width: 70px;
     height: 70px;
     padding-left: 5%;
+    padding-bottom: 4%;
 }
 
 h4{
     padding-top: 5%;
     padding-left: 3%;
+}
+footer{
+    background-color: rgb(202, 171, 163);
+    text-align: center;
+    padding-top: 3%;
+}
+footer p{
+    color: whitesmoke;
+    padding-left: 20%;
 }
